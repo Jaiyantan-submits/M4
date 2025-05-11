@@ -1,27 +1,31 @@
+# NAME : JAIYANTAN S
+# REG NO : 212224100021
 # EX-16-LEFT-SHIFT-OPERATION
-## AIM
+## AIM :
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
 
-## ALGORITHM
+## ALGORITHM :
 1.	Start the program.
 2.	Assign values of a and b as 44 and 3.
 3.	Use left shift operator (<<) and shift the value of a three times.
 4.	Display the result.
 5.	Stop the program.
 
-## PROGRAM
+## PROGRAM :
+![Screenshot 2025-04-26 043743](https://github.com/user-attachments/assets/3255bda7-6003-4b67-9c35-2c4cddff8741)
 
-## OUTPUT
-
-
-
+## OUTPUT :
 
 
-
+![Screenshot 2025-04-26 043758](https://github.com/user-attachments/assets/cc1fbce4-6a40-4086-a9a7-9dab22aa8b79)
 
 
 
-## RESULT
+
+
+
+
+## RESULT :
 Thus the program to perform the basic left shift operation for 44 integer number with 3 shifts has been executed successfully.
 
 
@@ -31,14 +35,11 @@ Thus the program to perform the basic left shift operation for 44 integer number
  
 
 
-# EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT
-
-
-## AIM
+# EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT 
 
 Write a C Program to check whether the two numbers are equal or not using simple if statement.
 
-## ALGORITHM
+## ALGORITHM :
 
 1.	Start the program.
 2.	Read two numbers.
@@ -46,47 +47,51 @@ Write a C Program to check whether the two numbers are equal or not using simple
 4.	Otherwise display both are not equal.
 5.	Stop the program.
 
-## PROGRAM
+## PROGRAM :
+![Screenshot 2025-04-26 043933](https://github.com/user-attachments/assets/1106a189-8d6b-4020-8cf5-31cd2f4bc33a)
 
 
-## OUTPUT
-           
-## RESULT
-
+## OUTPUT :
+![Screenshot 2025-04-26 043941](https://github.com/user-attachments/assets/899e8857-7e3c-4211-951a-9b91f9f8d405)
+     
+## RESULT :
+ 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
  
  
 
 
 # EX-18-STRING-LOWERCASE-CONVERSION
-## AIM
+## AIM :
 Write a C Program to convert the given string into lowercase.
 
-## ALGORITHM
+## ALGORITHM :
 1.	Start the program.
 2.	Read a string variable.
 3.	Using tolower( ) function convert the given string into its lowercase.
 4.	Display the result.
 5.	Stop the program.
 
-## PROGRAM
+## PROGRAM :
+![Screenshot 2025-04-26 044231](https://github.com/user-attachments/assets/04f5ae44-722e-4503-86c5-83d2fb02709e)
 
-## OUTPUT
+## OUTPUT :
+![Screenshot 2025-04-26 044235](https://github.com/user-attachments/assets/2a00dc69-7d64-48ba-b72c-40a4181590a8)
 
 
 
 
-## RESULT
+## RESULT :
 Thus the program to convert the given string into lowercase has been executed successfully
  
  
 
 
 # EX-19-COUNT-OF-WORDS-IN-A-STRING
-## AIM
+## AIM :
 Write a C Program to count the total number of words in a given string using do While loop.
 
-## ALGORITHM
+## ALGORITHM :
 1.	Start the program.
 2.	Read a string variable.
 3.	Using for loop, inspect the string character by character.
@@ -94,24 +99,26 @@ Write a C Program to count the total number of words in a given string using do 
 5.	Display the result.
 6.	Stop the program.
 
-## PROGRAM
+## PROGRAM :
+![Screenshot 2025-04-26 044444](https://github.com/user-attachments/assets/85a97f9a-389e-4182-98b4-26ec3ee9809e)
+ 
+## OUTPUT :
 
-## OUTPUT
+![image](https://github.com/user-attachments/assets/0a85f01d-9223-48a4-867b-45846a3c3931)
 
 
 
 
-
-## RESULT
+## RESULT :
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
  
  
 
 
 # EX  -20 -COMPARING TWO STRINGS
-## AIM
+## AIM :
 write a Program to compare two strings without using strcmp().
-## ALGORITHM
+## ALGORITHM :
 Step 1: Start the program.
 Step 2: Declare two character arrays c1 and c2 of size 100 to store the strings. Also, declare an integer variable
              flag and initialize it to 0, and i for indexing.      
@@ -128,12 +135,13 @@ Step 7: After the loop, check the value of flag:
 •	Otherwise, print "strings are not same".
 Step 8: End the program.
 
-## PROGRAM
+## PROGRAM :
+![Screenshot 2025-04-26 044757](https://github.com/user-attachments/assets/a82c1f7e-4f98-467b-8e04-806ad6b088c0)
 
 
-## OUTPUT
- 
+## OUTPUT :
+ ![Screenshot 2025-04-26 044803](https://github.com/user-attachments/assets/829c9f81-6892-411b-862f-a36fa9b24b06)
 
-## RESULT
+
+## RESULT :
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
-
